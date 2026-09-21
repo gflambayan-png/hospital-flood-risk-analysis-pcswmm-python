@@ -5,7 +5,7 @@ PROJECT:
 Hospital Floodplain Study
 
 AUTHOR:
-Your Name
+Gener Francis Lambayan
 
 SOFTWARE:
 PCSWMM + Python
