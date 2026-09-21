@@ -85,21 +85,21 @@ The culvert cross-sectional area was increased to improve conveyance capacity th
 
 ---
 
-## Performance Improvement
+### Performance Improvement
 
 ### Flood Depth Reduction
 
-\[
-\frac{3.49 - 3.10}{3.49} \times 100
-=
-11.17\%
-\]
+Calculation:
+
+(3.49 - 3.10) / 3.49 × 100 = 11.17%
 
 **Maximum Flood Depth Reduction = 11.17%**
 
 ### Velocity Reduction
 
-No reduction in maximum velocity was observed.
+Calculation:
+
+(14.08 - 14.08) / 14.08 × 100 = 0.00%
 
 **Maximum Velocity Reduction = 0.00%**
 
@@ -143,19 +143,19 @@ matplotlib
 
 ### Existing Condition Flood Depths
 
-![Existing Flood Depth]
+figures/Existing_Flood_Depths.png
 
 ### Flood Mitigation Scenario
 
-![Mitigation Flood Depth]
+figures/Mitigation_Flood_Depths.png
 
-### Maximum Flood Depth Comparison
+### Existing Condition Flow Velocities
 
-![Max Flood Depth Comparison]
+figures/Existing_Flow_Velocities.png
 
-### Maximum Velocity Comparison
+### Flood Mitigation Scenario
 
-![Max Velocity Comparison]
+figures/Mitigation_Flow_Velocities.png
 
 ---
 
